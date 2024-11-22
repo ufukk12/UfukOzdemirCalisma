@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83b38613-6fd6-4e60-98a4-bf14fa1537b9" name="Changes" comment="git commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2oJ5HFA9mQBuPPFT6mtoZ1615vU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OrtancaBulucu.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/HP/IdeaProjects/Ufuk Calisma/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83b38613-6fd6-4e60-98a4-bf14fa1537b9" name="Changes" comment="" />
+      <created>1730574750309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730574750309</updated>
+      <workItem from="1730574751436" duration="1348000" />
+      <workItem from="1730667630404" duration="708000" />
+      <workItem from="1731085645588" duration="331000" />
+      <workItem from="1731089959924" duration="2462000" />
+      <workItem from="1731098071586" duration="597000" />
+      <workItem from="1731098683580" duration="3096000" />
+      <workItem from="1731170508470" duration="278000" />
+      <workItem from="1731170806573" duration="129000" />
+      <workItem from="1731171012293" duration="116000" />
+      <workItem from="1731172086213" duration="1000" />
+      <workItem from="1731439390493" duration="59000" />
+      <workItem from="1731439459812" duration="167000" />
+      <workItem from="1731439990037" duration="600000" />
+      <workItem from="1731592132070" duration="712000" />
+      <workItem from="1731743885541" duration="724000" />
+      <workItem from="1731752744382" duration="94000" />
+      <workItem from="1731842456721" duration="1308000" />
+      <workItem from="1731867226826" duration="713000" />
+      <workItem from="1732133675851" duration="4544000" />
+      <workItem from="1732138324289" duration="447000" />
+      <workItem from="1732138821352" duration="15000" />
+    </task>
+    <task id="LOCAL-00001" summary="git commit">
+      <option name="closed" value="true" />
+      <created>1732138476277</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732138476277</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="git commit" />
+  </component>
+</project>
